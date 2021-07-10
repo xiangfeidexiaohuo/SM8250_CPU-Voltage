@@ -22,6 +22,16 @@
 
 就当一娱乐，跟安兔兔跑分一样。所谓的CPU电压小一点，雕一点？其实日常使用差别不大。
 
+**本数据来自ETO内核群群友贡献，感谢群友们！**
+
+***
+
+关于这些CPU电压值:
+
+官方内核是查看不了的，必须是第三方内核，才能查看！
+
+第三方内核添加[cpufreq: qcom-hw: Log reported voltage for each OPP](https://github.com/kdrag0n/proton_kernel_redbull/commit/ec408d18e6c1d9e15092cdd23e97e45a554aaf41)编译出内核刷入即可查看！
+
 ***
 
 ### 下面是详细数据：
